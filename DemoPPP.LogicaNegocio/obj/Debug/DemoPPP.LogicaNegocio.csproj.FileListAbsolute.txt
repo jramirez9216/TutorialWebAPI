@@ -1,0 +1,11 @@
+C:\Users\juan.ramirez.1\source\repos\DemoPPP\DemoPPP.LogicaNegocio\bin\Debug\DemoPPP.LogicaNegocio.dll
+C:\Users\juan.ramirez.1\source\repos\DemoPPP\DemoPPP.LogicaNegocio\bin\Debug\DemoPPP.LogicaNegocio.pdb
+C:\Users\juan.ramirez.1\source\repos\DemoPPP\DemoPPP.LogicaNegocio\obj\Debug\DemoPPP.LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\juan.ramirez.1\source\repos\DemoPPP\DemoPPP.LogicaNegocio\obj\Debug\DemoPPP.LogicaNegocio.dll
+C:\Users\juan.ramirez.1\source\repos\DemoPPP\DemoPPP.LogicaNegocio\obj\Debug\DemoPPP.LogicaNegocio.pdb
+C:\Users\juan.ramirez.1\source\repos\DemoPPP\DemoPPP.LogicaNegocio\bin\Debug\DemoPPP.LogicaNegocio.dll.config
+C:\Users\juan.ramirez.1\source\repos\DemoPPP\DemoPPP.LogicaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\juan.ramirez.1\source\repos\DemoPPP\DemoPPP.LogicaNegocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juan.ramirez.1\source\repos\DemoPPP\DemoPPP.LogicaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\juan.ramirez.1\source\repos\DemoPPP\DemoPPP.LogicaNegocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juan.ramirez.1\source\repos\DemoPPP\DemoPPP.LogicaNegocio\obj\Debug\DemoPPP.LogicaNegocio.csproj.CopyComplete
